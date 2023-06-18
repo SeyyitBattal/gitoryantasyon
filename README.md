@@ -10,10 +10,10 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Bir GitHub hesabı oluşturma
 - [x]  Komut satırı arayüzünü açma
 - [x]  Kullanıcı Adı and E-mail oluşturma
-- [ ]  Kimlik doğrulamasının yapılması
-- [ ]  Repository’nin forklanması 
-- [ ]  Repository’nin clone’lanması
-- [ ]  Repository’de değişiklik yapmaa
+- [+]  Kimlik doğrulamasının yapılması
+- [+]  Repository’nin forklanması 
+- [+]  Repository’nin clone’lanması
+- [+]  Repository’de değişiklik yapmaa
 - [ ]  Değişiklikleri Local olarak commit etmek
 - [ ]  Değişiklikleri GitHub'a Taşıma
 - [ ]  Standart İş Akışı
